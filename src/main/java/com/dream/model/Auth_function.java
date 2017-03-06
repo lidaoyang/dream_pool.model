@@ -6,7 +6,7 @@ public class Auth_function implements java.io.Serializable, MyModel {
 	private static final long serialVersionUID = 1L;
 	private String id;
 	private String name;
-	private String parent_id;
+	private String parent_id; 
 	private String url;
 	private String serial_num;
 	private String is_navigation;
